@@ -16,7 +16,10 @@
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Upsurge-11&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Upsurge-11" />
 <p/>
 
+<br/>
+
 <p>
+
 - 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Linux, MERN**
@@ -24,6 +27,7 @@
 - 📫 How to reach me **arghyadeepbumbum@gmail.com**
 
 - ⚡ Fun fact **I rice my linux desktop for leisure.**
+
 </p>
 
 [![Upsurge-11 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Upsurge-11&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
