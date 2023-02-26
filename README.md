@@ -1,3 +1,4 @@
+<hr>
 <img align="center" src="./assets/banner.gif" alt='banner'/>
 
 <h1 align="center">Hi 👋, I'm Arghyadeep Mukherjee</h1>
