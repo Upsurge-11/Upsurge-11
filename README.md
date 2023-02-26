@@ -1,8 +1,7 @@
 <img align="center" src="./assets/banner.gif" alt='banner'/>
 <h1 align="center">Hi 👋, I'm Arghyadeep Mukherjee</h1>
 <h3 align="center">A passionate Full Stack Developer and Aspiring Ethical Hacker From India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Upsurge-11&label=Profile%20views&color=0e75b6&style=flat" alt="Upsurge-11" /> </p>
-<p>
+
 <a href="https://twitter.com/Upsurge_11">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -10,6 +9,8 @@
 <a href="https://linkedin.com/in/arghyadeep-mukherjee-53a1341b7">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Upsurge-11&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Upsurge-11" /> </p>
+<p>
 <p/>
 
 <br/>
