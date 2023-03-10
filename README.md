@@ -22,9 +22,9 @@
 
 <p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Linux, MERN**
+- 💬 Ask me about **Linux, Devops**
 
 - 📫 How to reach me **arghyadeepbumbum@gmail.com**
 
