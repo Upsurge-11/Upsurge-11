@@ -41,6 +41,5 @@
 ![Upsurge-11 Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Upsurge-11&layout=compact&theme=onedark)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Upsurge-11&theme=onedark" alt="Upsurge-11" /></a> </p>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Upsurge-11&theme=onedark)](https://git.io/streak-stats)
 
 <hr>
