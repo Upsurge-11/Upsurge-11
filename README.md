@@ -22,7 +22,7 @@
 
 <p>
 
-- 🌱 I’m currently learning **Dotnet & AWS**
+- 🌱 I’m currently learning **Dotnet & Generatice AI**
 
 - 💬 Ask me about **Linux, Ricing & Dotnet**
 
